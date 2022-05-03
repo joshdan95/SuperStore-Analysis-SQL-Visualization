@@ -22,7 +22,7 @@ BUSINESS QUESTIONS:
 
 6.Overall AVG.SALES, AVG.PROFIT, AVG.DISCOUNT
 
- KEY INSIGHTS
+ KEY INSIGHTS:
  
  1. Surprisingly age range between 80-90 averages more profit than other age ranges.
  
