@@ -6,22 +6,33 @@ BUSINESS TALK:
 
 Analyse profit data and determine which region and state on a average brings in more profit, And which age category averages more profit.
 
+DATA SET:The data set is publicly available on Kaggle.
+
 BUSINESS QUESTIONS:
 
-1. TREND OF STATE WISE PROFIT
+1. Trend of state wise profit
  
-2. AVERAGE PROFIT BY STATE
+2. Average profit by states
 
-3. AVERAGE PROFIT BY REGION
+3. Average profit by region
 
-4. AVERAGE PROFIT BY AGE RANGE
+4. Average profit by age range
 
-5.QUARTERLY AVERAGE PROFIT REGION-WISE
+5.Quarterly average region-wise
 
-6.OVERALL AVG.SALES, AVG.PROFIT, AVG.DISCOUNT
+6.Overall AVG.SALES, AVG.PROFIT, AVG.DISCOUNT
 
-TOOLS USED:
-MS-EXCEL, MS-SQL, TABLEAU FOR DATA ANALYSIS AND DATA VISUALIZATION
+ KEY INSIGHTS
+ 
+ 1. Surprisingly age range between 80-90 averages more profit than other age ranges.
+ 
+ 2. Montana is the only state with no profit
+ 
+ 3. South dakota averages more profit than any other state
+ 
+ 4. Region wise south zone averages more profit than all other regions.
+
+TOOLS USED: MS-EXCEL, MS-SQL, TABLEAU FOR DATA ANALYSIS AND DATA VISUALIZATION
 
 
 ![profit  dashboard](https://user-images.githubusercontent.com/101450511/166460776-0c8b1da5-3ccf-4b5a-81eb-bccce07c9272.png)
@@ -32,8 +43,5 @@ https://public.tableau.com/app/profile/joshua4132/viz/SuperStoreDataProfitAnalys
 
 
 
-DATA SET:
-
-The data set is publicly available on Kaggle.
 
 
