@@ -34,12 +34,16 @@ BUSINESS QUESTIONS:
 
 TOOLS USED: MS-EXCEL, MS-SQL, TABLEAU FOR DATA ANALYSIS AND DATA VISUALIZATION
 
+VISUALIZATION
+
+Produced a 1-pager dashboard using Tableau.
+
 
 ![profit  dashboard](https://user-images.githubusercontent.com/101450511/166460776-0c8b1da5-3ccf-4b5a-81eb-bccce07c9272.png)
 
 TABLEAU LINK :
 
-https://public.tableau.com/app/profile/joshua4132/viz/SuperStoreDataProfitAnalysis/Retaildataprofitanalysis?publish=yes  (copy paste the link)
+https://public.tableau.com/app/profile/joshua4132/viz/SuperStoreDataProfitAnalysis/Retaildataprofitanalysis?publish=yes 
 
 
 
