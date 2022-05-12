@@ -4,13 +4,13 @@ Exploratory Data Analysis on Super Store
 
 BUSINESS TALK:
 
-Analyse profit data and determine which region and state on a average brings in more profit, And which age category averages more profit.
+Analyze profit data and determine on average which region, state, product-sub-category, and products bring in more profit, And which age category averages more profit.
 
-DATA SET:The data set is publicly available on Kaggle.
+DATA SET: The data set is publicly available on Kaggle.
 
 BUSINESS QUESTIONS:
 
-1. Trend of state wise profit
+1. Trend of state-wise profit
  
 2. Average profit by states
 
@@ -22,21 +22,24 @@ BUSINESS QUESTIONS:
 
 6. Average profit per each product sub-category
 
-7. Top 10 products by average profit
+7. Top 10 products by the average profit
 
-8.Overall AVG.SALES, AVG.PROFIT, AVG.DISCOUNT
+8. Overall AVG.SALES, AVG.PROFIT, AVG.DISCOUNT
 
  KEY INSIGHTS:
  
  1. Age range between 80-90 averages more profit than other age ranges, With office supplies bringing in 80% of average profit.
  
- 2. Montana is the only state with no Profit margin averaging -186$, Only office supplies out of 3 categories brings in profit with a average of 56$
+ 2. Montana is the only state with no Profit margin averaging -186$, Only office supplies out of 3 categories brings in profit with an average of 56$
  
- 3. South dakota averages more profit than any other state with all 3 categories reaching the profit margin 
+ 3. South Dakota averages more profit than any other state with all 3 categories reaching the profit margin 
  
- 4. On a average south region tops the chart with avg profit of 229$ and order quantity of about 47250 nos.
+ 4. On an average south region tops the chart with avg profit of 229$ and an order quantity of about 47250 nos.
  
- 5. With only 106 orders placed Via video desktop communications unit is the best performing product with an average profit of 9,433$
+ 5. With only 106 orders placed Via video desktop communications unit is the best performing product with an average profit of 9,433$.
+ 
+ 6. Out of 17 only 4 sub-categories fail to register any profit, Copiers and Fax are the best performing sub-category with an average profit of 1924$.
+
 
 TOOLS USED: MS-EXCEL, MS-SQL, TABLEAU FOR DATA ANALYSIS AND DATA VISUALIZATION
 
