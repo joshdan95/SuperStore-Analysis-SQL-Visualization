@@ -18,19 +18,25 @@ BUSINESS QUESTIONS:
 
 4. Average profit by age range
 
-5.Quarterly average region-wise
+5. Quarterly average region-wise
 
-6.Overall AVG.SALES, AVG.PROFIT, AVG.DISCOUNT
+6. Average profit per each product sub-category
+
+7. Top 10 products by average profit
+
+8.Overall AVG.SALES, AVG.PROFIT, AVG.DISCOUNT
 
  KEY INSIGHTS:
  
- 1. Surprisingly age range between 80-90 averages more profit than other age ranges.
+ 1. Age range between 80-90 averages more profit than other age ranges, With office supplies bringing in 80% of average profit.
  
- 2. Montana is the only state with no profit
+ 2. Montana is the only state with no Profit margin averaging -186$, Only office supplies out of 3 categories brings in profit with a average of 56$
  
- 3. South dakota averages more profit than any other state
+ 3. South dakota averages more profit than any other state with all 3 categories reaching the profit margin 
  
- 4. Region wise south zone averages more profit than all other regions.
+ 4. On a average south region tops the chart with avg profit of 229$ and order quantity of about 47250 nos.
+ 
+ 5. With only 106 orders placed Via video desktop communications unit is the best performing product with an average profit of 9,433$
 
 TOOLS USED: MS-EXCEL, MS-SQL, TABLEAU FOR DATA ANALYSIS AND DATA VISUALIZATION
 
@@ -38,12 +44,13 @@ VISUALIZATION:
 
 Produced a 1-pager dashboard using Tableau.
 
+![Superstore profit analysis DB](https://user-images.githubusercontent.com/101450511/168109155-aeade0b3-5713-4b23-9809-e0dab6d39c2b.png)
 
-![profit  dashboard](https://user-images.githubusercontent.com/101450511/166460776-0c8b1da5-3ccf-4b5a-81eb-bccce07c9272.png)
 
 TABLEAU LINK :
 
-https://public.tableau.com/app/profile/joshua4132/viz/SuperStoreDataProfitAnalysis/Retaildataprofitanalysis?publish=yes 
+https://public.tableau.com/app/profile/joshua4132/viz/SUPERSTOREPROFITANALYSIS_16523640764340/Retaildataprofitanalysis
+
 
 
 
