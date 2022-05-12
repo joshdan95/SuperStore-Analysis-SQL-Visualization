@@ -61,6 +61,18 @@ from superstore_data
 group by  Region, DATEPART(year,orderdate_conv),  DATEPART(qq,orderdate_conv)
 order by region, DATEPART(qq,orderdate_conv), year(orderdate_conv) asc;
 
+-- Average profit by product sub-category
+
+select avg(profit) as Average_profit, [Product Sub-Category]
+from superstore_data
+group by [Product Sub-Category];
+
+-- Top 10 products by avg.profit
+select avg(profit) as Average_profit, [Product Name]
+from superstore_data
+group by [Product Name]
+order by Average_profit desc;
+
 
 --Avg.Sales
 select cast(avg(sales)as decimal(10,2)) as avg_sales
